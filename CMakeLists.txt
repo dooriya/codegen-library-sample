@@ -36,7 +36,6 @@ find_package(azure_iot_sdks REQUIRED)
 #add_subdirectory(azure-iot-sdk-c)
 
 # Include the capability model library.
-add_subdirectory(dcm_lib)
 #add_subdirectory(dcm_lib)
 add_subdirectory(capability_model_lib)
 add_subdirectory(dt_interface_lib)
